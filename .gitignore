@@ -1,0 +1,18 @@
+# Compiled executables
+server
+backend1
+backend2
+client
+
+# Object files
+*.o
+*.out
+
+# Debug files
+core
+core.*
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
